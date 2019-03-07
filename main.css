@@ -1,0 +1,49 @@
+* {
+  background-color: grey;
+}
+
+.calculatorContainer {
+  width: 50%;
+  margin: auto;
+}
+
+.screenBlack {
+  height: 20vh;
+  background: black;
+  border-style: solid;
+  border-color: #393E3D;
+  border-width: 10px;
+}
+
+p {
+  font-size: 4em;
+  background-color: black;
+  color: white;
+  text-align: right;
+  margin-right: 4vh;
+}
+
+.screenGreyLight {
+  height: 65vh;
+  background: #AEAFAF;
+  margin-top: 2vh;
+  border-style: solid;
+  border-color: #969797;
+  border-width: 10px;
+}
+
+.allButtonContainer {
+  margin: 2vh;
+  background-color: #AEAFAF;
+}
+
+button {
+  width: 20vh;
+  height: 13vh;
+  margin: 1vh;
+  background-color: #939292;
+  border-style: solid;
+  border-color: #6C6C6C;
+  border-width: 6px;
+  font-size: 3em;
+}
